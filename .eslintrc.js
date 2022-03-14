@@ -9,6 +9,8 @@ module.exports = {
     'plugin:vue/essential',
     'plugin:vue/strongly-recommended',
     'plugin:vue/recommended',
+    '@nuxtjs/eslint-config-typescript',
+    'plugin:nuxt/recommended',
     'standard'
   ],
   parserOptions: {
