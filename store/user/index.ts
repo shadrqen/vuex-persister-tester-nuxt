@@ -1,6 +1,6 @@
-import { UserState, RootState } from '@/types'
 import { Module } from 'vuex'
 import { mutations } from './mutations'
+import { UserState, RootState } from '@/types'
 
 const state = {
   name: ''
